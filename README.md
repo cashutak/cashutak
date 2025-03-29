@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###I am studying Graphic Information Technology at ASU!
+I am studying Graphic Information Technology at ASU!
 
 My goal is to become an awesome UI designer. I am passionate about transforming creative ideas into intuitive and beautiful digital experiences. 
 Check out my portfolio at [My Portfolio](https://www.yourportfolio.com)
