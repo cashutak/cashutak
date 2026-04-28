@@ -21,4 +21,3 @@ My goal is to become an awesome UI designer. I am passionate about transforming 
 Check out my portfolio at [My Portfolio](https://www.yourportfolio.com)
 
 Thanks for stopping by!
-<img src="https://github.com/cashutak/cashutak/blob/main/My%20Signature.png" width="300">
